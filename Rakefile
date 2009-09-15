@@ -1,4 +1,4 @@
-files = ['after/plugin/snipMate.vim', 'autoload/snipMate.vim', 'ftplugin/html_snip_helper.vim', 'plugin/snipMate.vim', 'syntax/snippet.vim']
+files = ['after/plugin/snipMate.vim', 'autoload/snipMate.vim', 'doc/snipMate.txt', 'ftplugin/html_snip_helper.vim', 'plugin/snipMate.vim', 'syntax/snippet.vim']
 
 desc "Install"
 task :install do
